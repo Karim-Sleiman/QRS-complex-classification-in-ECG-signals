@@ -33,6 +33,7 @@ The main objectives were:
     Preprocessing Snippets: 📜 Scripts for filtering and preparing ECG signals.
     CNN Model Overview: 🤖 Key architectural details for the classification algorithm.
     Simulation Snippets: 🌊 Scripts to generate simulated ECG signals and QRS complexes.
+    Datastet: 📈 can be found on the following link: https://www.physionet.org/lightwave/?db=incartdb/1.0.0 
     
 ## 🙏 Acknowledgments
     The project was conducted under the supervision of Dr. Youssef Harkouss. Special thanks to the Faculty of Engineering III at Lebanese University for their support and resources. 🎉
