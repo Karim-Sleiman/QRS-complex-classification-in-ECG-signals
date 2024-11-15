@@ -5,7 +5,7 @@ Welcome to the repository for the Final Year Project (FYP) titled Classification
 This project dives into the fascinating field of cardiac signal analysis, focusing on the classification of QRS complexes from ECG traces using machine learning. 
 The main objectives were:
 - 🎯 Enhancing classification accuracy using Convolutional Neural Networks (CNNs).
--🔬 Simulating ECG signals to overcome data limitations and support biomedical research.
+- 🔬 Simulating ECG signals to overcome data limitations and support biomedical research.
 
 ## 📂 Contents
 ### 1. 🧠 Background
